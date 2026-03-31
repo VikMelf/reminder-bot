@@ -2,8 +2,6 @@
 
 **Discord Reminder Bot** — A clean and functional bot for creating reminders, scheduled messages, and task management.
 
-![Demo]  
-*(Add a screenshot or GIF showing the bot in action — e.g. reminder command or task list)*
 
 ## Features
 
